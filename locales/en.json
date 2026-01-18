@@ -1,0 +1,82 @@
+{
+  "page": {
+    "title": "Professional CV - Victor R. Menezes"
+  },
+  "header": {
+    "title": "Software Engineer"
+  },
+  "about": {
+    "title": "About",
+    "description": "Passionate software engineer with expertise in building scalable web applications and cloud solutions. Strong background in full-stack development, with a focus on modern technologies and best practices. Committed to writing clean, maintainable code and delivering high-quality solutions."
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "job1": {
+      "title": "Senior Software Engineer",
+      "company": "Tech Company Inc.",
+      "date": "2021 - Present",
+      "location": "Remote",
+      "resp1": "Led development of microservices architecture serving 1M+ users",
+      "resp2": "Implemented CI/CD pipelines reducing deployment time by 60%",
+      "resp3": "Mentored junior developers and conducted code reviews",
+      "resp4": "Improved application performance by 40% through optimization"
+    },
+    "job2": {
+      "title": "Software Engineer",
+      "company": "Digital Solutions Ltd.",
+      "date": "2019 - 2021",
+      "location": "São Paulo, Brazil",
+      "resp1": "Developed and maintained full-stack web applications using React and Node.js",
+      "resp2": "Collaborated with cross-functional teams in Agile environment",
+      "resp3": "Integrated third-party APIs and payment systems",
+      "resp4": "Participated in architecture decisions and technical planning"
+    },
+    "job3": {
+      "title": "Junior Developer",
+      "company": "StartUp Ventures",
+      "date": "2017 - 2019",
+      "location": "São Paulo, Brazil",
+      "resp1": "Built responsive web interfaces using modern JavaScript frameworks",
+      "resp2": "Worked on RESTful API development and database design",
+      "resp3": "Participated in daily standups and sprint planning"
+    }
+  },
+  "education": {
+    "title": "Education",
+    "degree1": {
+      "name": "Bachelor of Science in Computer Science",
+      "institution": "Federal University of São Paulo",
+      "date": "2013 - 2017",
+      "description": "Focus on Software Engineering, Data Structures, and Algorithms. Final project on distributed systems."
+    },
+    "cert1": {
+      "name": "AWS Certified Solutions Architect",
+      "institution": "Amazon Web Services",
+      "date": "2022"
+    }
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "languages": {
+      "title": "Programming Languages"
+    },
+    "frontend": {
+      "title": "Frontend"
+    },
+    "backend": {
+      "title": "Backend"
+    },
+    "database": {
+      "title": "Databases"
+    },
+    "cloud": {
+      "title": "Cloud & DevOps"
+    },
+    "other": {
+      "title": "Other"
+    }
+  },
+  "footer": {
+    "text": "Thank you for reviewing my CV. I look forward to discussing opportunities with you."
+  }
+}
