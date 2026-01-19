@@ -85,6 +85,21 @@
       "title": "Outros"
     }
   },
+  "languages": {
+    "title": "Idiomas",
+    "lang1": {
+      "name": "Português",
+      "level": "Nativo"
+    },
+    "lang2": {
+      "name": "Inglês",
+      "level": "Fluente"
+    },
+    "lang3": {
+      "name": "Italiano",
+      "level": "Intermediário"
+    }
+  },
   "footer": {
     "text": "Obrigado por revisar meu currículo. Aguardo ansiosamente para discutir oportunidades com você."
   }

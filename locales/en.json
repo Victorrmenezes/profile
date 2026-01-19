@@ -15,7 +15,7 @@
       "title": "Senior Software Engineer",
       "company": "Inoa Sistemas",
       "date": "2024 - Present",
-      "location": "Remote",
+      "location": "Rio de Janeiro, Brazil",
       "resp1": "Developed and maintained full-stack web applications using C#, Python, and React",
       "resp2": "Led the transition from a monolithic architecture to a microservices architecture transparently for clients",
       "resp3": "Make commercial presentations to clients, demonstrating new features and understanding usage contexts not yet covered by the solution",
@@ -27,8 +27,8 @@
       "date": "2023 - 2024",
       "location": "Rio de Janeiro, Brazil",
       "resp1": "Developed and maintained full-stack web applications using Python and React",
-      "resp2": "Suppor",
-      "resp3": "Integrated third-party APIs and payment systems",
+      "resp2": "Supported a product with dozens of asset management firms in the Brazilian capital markets",
+      "resp3": "Created and maintained integrations with APIs from other financial market participants",
       "resp4": "Participated in architecture decisions and technical planning"
     },
     "job3": {
@@ -36,9 +36,9 @@
       "company": "Visagio Consultoria",
       "date": "2023",
       "location": "Rio de Janeiro, Brazil",
-      "resp1": "Built responsive web interfaces using modern JavaScript frameworks",
-      "resp2": "Worked on RESTful API development and database design",
-      "resp3": "Participated in daily standups and sprint planning"
+      "resp1": "Built a book with strategic guidelines for the next 5 years of a large company in the education sector",
+      "resp2": "Created models for choosing optimal locations for new physical units based on demographic and market data",
+      "resp3": "Participated in daily meetings with the client and planning biweekly presentations to investors"
     },
     "job4": {
       "title": "Data Analysis Intern",
@@ -83,6 +83,21 @@
     },
     "other": {
       "title": "Other"
+    }
+  },
+  "languages": {
+    "title": "Languages",
+    "lang1": {
+      "name": "Portuguese",
+      "level": "Native"
+    },
+    "lang2": {
+      "name": "English",
+      "level": "Fluent"
+    },
+    "lang3": {
+      "name": "Italian",
+      "level": "Intermediate"
     }
   },
   "footer": {
