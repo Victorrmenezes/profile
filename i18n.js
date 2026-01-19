@@ -29,7 +29,9 @@ class I18n {
 
     async loadTranslations(lang) {
         try {
-            const response = await fetch(`./locales/${lang}.json`);
+            // Add timestamp to prevent caching issues
+            const cacheBuster = new Date().getTime();
+            const response = await fetch(`./locales/${lang}.json?v=${cacheBuster}`);
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }

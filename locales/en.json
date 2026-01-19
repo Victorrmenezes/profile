@@ -1,57 +1,66 @@
 {
   "page": {
-    "title": "Professional CV - Victor R. Menezes"
+    "title": "Professional CV - João Victor Menezes"
   },
   "header": {
     "title": "Software Engineer"
   },
   "about": {
-    "title": "About",
-    "description": "Passionate software engineer with expertise in building scalable web applications and cloud solutions. Strong background in full-stack development, with a focus on modern technologies and best practices. Committed to writing clean, maintainable code and delivering high-quality solutions."
+    "title": "About Me",
+    "description": "Passionate software engineer with expertise in building scalable web applications and cloud based solutions. Strong background in full-stack development, with a focus on business applications. I have experience working on capital markets, e-commerce, education. Adept at collaborating with cross-functional teams to deliver high-quality software."
   },
   "experience": {
     "title": "Professional Experience",
     "job1": {
       "title": "Senior Software Engineer",
-      "company": "Tech Company Inc.",
-      "date": "2021 - Present",
+      "company": "Inoa Sistemas",
+      "date": "2024 - Present",
       "location": "Remote",
-      "resp1": "Led development of microservices architecture serving 1M+ users",
-      "resp2": "Implemented CI/CD pipelines reducing deployment time by 60%",
-      "resp3": "Mentored junior developers and conducted code reviews",
-      "resp4": "Improved application performance by 40% through optimization"
+      "resp1": "Developed and maintained full-stack web applications using C#, Python, and React",
+      "resp2": "Led the transition from a monolithic architecture to a microservices architecture transparently for clients",
+      "resp3": "Make commercial presentations to clients, demonstrating new features and understanding usage contexts not yet covered by the solution",
+      "resp4": "Mentored junior developers and conducted code reviews"
     },
     "job2": {
       "title": "Software Engineer",
-      "company": "Digital Solutions Ltd.",
-      "date": "2019 - 2021",
-      "location": "São Paulo, Brazil",
-      "resp1": "Developed and maintained full-stack web applications using React and Node.js",
-      "resp2": "Collaborated with cross-functional teams in Agile environment",
+      "company": "Inoa Sistemas",
+      "date": "2023 - 2024",
+      "location": "Rio de Janeiro, Brazil",
+      "resp1": "Developed and maintained full-stack web applications using Python and React",
+      "resp2": "Suppor",
       "resp3": "Integrated third-party APIs and payment systems",
       "resp4": "Participated in architecture decisions and technical planning"
     },
     "job3": {
-      "title": "Junior Developer",
-      "company": "StartUp Ventures",
-      "date": "2017 - 2019",
-      "location": "São Paulo, Brazil",
+      "title": "Junior Technology Consultant",
+      "company": "Visagio Consultoria",
+      "date": "2023",
+      "location": "Rio de Janeiro, Brazil",
       "resp1": "Built responsive web interfaces using modern JavaScript frameworks",
       "resp2": "Worked on RESTful API development and database design",
       "resp3": "Participated in daily standups and sprint planning"
+    },
+    "job4": {
+      "title": "Data Analysis Intern",
+      "company": "ArtMed Panamericana",
+      "date": "2019 - 2022",
+      "location": "Remote",
+      "resp1": "Analyzed large datasets to identify trends and actionable insights using Python and SQL",
+      "resp2": "Built interactive dashboards for data visualization using PowerBi and Tableau",
+      "resp3": "Acted as an internal consultant for data analysis in a medical education course marketplace"
     }
   },
   "education": {
     "title": "Education",
     "degree1": {
-      "name": "Bachelor of Science in Computer Science",
-      "institution": "Federal University of São Paulo",
-      "date": "2013 - 2017",
-      "description": "Focus on Software Engineering, Data Structures, and Algorithms. Final project on distributed systems."
+      "name": "Bachelor of Science in Cartographic Engineering",
+      "institution": "Military Institute of Engineering - IME",
+      "date": "2019 - 2023",
+      "description": "Focus on Data Structures and Algorithms, Image Analysis, and Signal Processing."
     },
     "cert1": {
-      "name": "AWS Certified Solutions Architect",
-      "institution": "Amazon Web Services",
+      "name": "MASTER Project",
+      "institution": "Istituto di Scienza e Tecnologie dell'Informazione (ISTI-CNR)",
       "date": "2022"
     }
   },

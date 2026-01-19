@@ -1,57 +1,66 @@
 {
   "page": {
-    "title": "Currículo Profissional - Victor R. Menezes"
+    "title": "Currículo Profissional - João Victor Menezes"
   },
   "header": {
     "title": "Engenheiro de Software"
   },
   "about": {
     "title": "Sobre",
-    "description": "Engenheiro de software apaixonado com expertise em construir aplicações web escaláveis e soluções em nuvem. Sólida experiência em desenvolvimento full-stack, com foco em tecnologias modernas e melhores práticas. Comprometido em escrever código limpo e sustentável, entregando soluções de alta qualidade."
+    "description": "Engenheiro de software apaixonado com expertise em construir aplicações web escaláveis e soluções em nuvem. Sólida experiência em desenvolvimento full-stack, com foco em aplicações empresariais. Tenho experiência trabalhando nos mercados de capitais, e-commerce e educação. Hábil em colaborar com equipes multifuncionais para entregar software de alta qualidade."
   },
   "experience": {
     "title": "Experiência Profissional",
     "job1": {
       "title": "Engenheiro de Software Sênior",
-      "company": "Tech Company Inc.",
-      "date": "2021 - Presente",
-      "location": "Remoto",
-      "resp1": "Liderou desenvolvimento de arquitetura de microsserviços atendendo mais de 1M de usuários",
-      "resp2": "Implementou pipelines de CI/CD reduzindo tempo de deploy em 60%",
-      "resp3": "Mentorou desenvolvedores júniores e conduziu revisões de código",
-      "resp4": "Melhorou performance da aplicação em 40% através de otimizações"
+      "company": "Inoa Sistemas",
+      "date": "2024 - Presente",
+      "location": "Rio de Janeiro, Brasil",
+      "resp1": "Desenvolvo e mantenho aplicações web full-stack usando C#, python e React",
+      "resp2": "Liderei a mudança de uma tecnologia monolítica para uma arquitetura de microsserviços de forma transparente para os clientes",
+      "resp3": "Faço apresentações comerciais para clientes, demonstrando novas funcionalidades e entendendo contextos de uso ainda não cobertos pela solução",
+      "resp4": "Mentoro desenvolvedores júniores e conduzo revisões de código"
     },
     "job2": {
       "title": "Engenheiro de Software",
-      "company": "Digital Solutions Ltd.",
-      "date": "2019 - 2021",
-      "location": "São Paulo, Brasil",
-      "resp1": "Desenvolveu e manteve aplicações web full-stack usando React e Node.js",
-      "resp2": "Colaborou com equipes multifuncionais em ambiente Ágil",
-      "resp3": "Integrou APIs de terceiros e sistemas de pagamento",
-      "resp4": "Participou de decisões de arquitetura e planejamento técnico"
+      "company": "Inoa Sistemas",
+      "date": "2023 - 2024",
+      "location": "Rio de Janeiro, Brasil",
+      "resp1": "Desenvolvi e mantive aplicações web full-stack usando Python e React",
+      "resp2": "Dei suporte a um produto com dezenas de gestoras do mercado de capitais brasileiro",
+      "resp3": "Criei e mantive integrações com APIs de outros participantes do mercado financeiro",
+      "resp4": "Participei de decisões de arquitetura e planejamento técnico"
     },
     "job3": {
-      "title": "Desenvolvedor Júnior",
-      "company": "StartUp Ventures",
-      "date": "2017 - 2019",
-      "location": "São Paulo, Brasil",
-      "resp1": "Construiu interfaces web responsivas usando frameworks JavaScript modernos",
-      "resp2": "Trabalhou em desenvolvimento de APIs RESTful e design de banco de dados",
-      "resp3": "Participou de reuniões diárias e planejamento de sprints"
+      "title": "Consultor de tecnologia Júnior",
+      "company": "Visagio Consultoria",
+      "date": "2023",
+      "location": "Rio de Janeiro, Brasil",
+      "resp1": "Construi uma book com as diretrizes estratégicas para os próximos 5 anos de uma grande empresa do setor de educação",
+      "resp2": "Criei modelos para escolha de lugares ótimos para novas unidades físicas baseados em dados demográficos e de mercado",
+      "resp3": "Participei de reuniões diárias com o cliente e planejamento de apresentações quinzenais a investidores"
+    },
+    "job4": {
+      "title": "Estagiário de Análise de Dados",
+      "company": "ArtMed Panamericana",
+      "date": "2019 - 2022",
+      "location": "Remoto",
+      "resp1": "Analisava grandes conjuntos de dados para identificar tendências e insights acionáveis utilizando Python e SQL",
+      "resp2": "Construi dashboards interativos para visualização de dados utilizando PowerBi e Tableau",
+      "resp3": "Atuava como consultor interno para análise de dados em um marketplace de cursos de ensino médico"
     }
   },
   "education": {
     "title": "Educação",
     "degree1": {
-      "name": "Bacharelado em Ciência da Computação",
-      "institution": "Universidade Federal de São Paulo",
-      "date": "2013 - 2017",
-      "description": "Foco em Engenharia de Software, Estruturas de Dados e Algoritmos. Projeto final sobre sistemas distribuídos."
+      "name": "Bacharelado em Engenharia Cartográfica",
+      "institution": "Instituto Militar de Engenharia - IME",
+      "date": "2019 - 2023",
+      "description": "Foco em estruturas de dados e algoritmos, análise de imagens e processamento de sinais"
     },
     "cert1": {
-      "name": "AWS Certified Solutions Architect",
-      "institution": "Amazon Web Services",
+      "name": "MASTER Project",
+      "institution": "Istituto di Scienza e Tecnologie dell'Informazione (ISTI-CNR)",
       "date": "2022"
     }
   },
